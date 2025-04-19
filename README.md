@@ -36,3 +36,10 @@ When evaluating a logistic regression model for lead scoring, it’s important t
 **In conclusion,** Lead scoring is a valuable technique for businesses to predict the likelihood of a lead converting into a customer. By using historical data, companies can assess which leads are more likely to engage with their services or products. Logistic regression, a classification algorithm, plays a significant role in this process, helping businesses assign a score or probability to each lead based on various features. The model evaluates factors such as customer demographics, behavior, or interactions with the business to categorize leads into different groups, such as 'high', 'medium', or 'low' probability of conversion. This classification allows businesses to prioritize high-scoring leads, thereby optimizing their sales efforts and improving overall conversion rates.
 
 The techniques used to train a logistic regression model for lead scoring include data preprocessing, where numerical and categorical features are properly transformed using methods like one-hot encoding and scaling. The model is trained using gradient descent to minimize a cost function, and performance evaluation is done through metrics like accuracy, precision, recall, and the AUC-ROC curve. By evaluating the model on the validation set and tuning hyperparameters, businesses can enhance the model's ability to generalize. This allows the model to make informed predictions on unseen data. Ultimately, the power of lead scoring and regression lies in its ability to drive smarter business decisions, reduce marketing waste, and focus resources on leads most likely to convert.
+## Installation
+* Python (3.8 or later)
+* Git (to clone the repository)
+* FlaskAPI (Running Locally)
+* Streamlit(Using Web Apps)
+* Docker (if you want to run it in a container)
+* Check out the article on this project here
